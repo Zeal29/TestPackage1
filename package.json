@@ -1,0 +1,22 @@
+{
+  "name": "test-pagcage-1",
+  "version": "1.0.0",
+  "description": "tesing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zeal29/TestPackage1.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Ali Nawaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zeal29/TestPackage1/issues"
+  },
+  "homepage": "https://github.com/Zeal29/TestPackage1#readme"
+}
